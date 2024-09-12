@@ -4,5 +4,5 @@ uses crt;
 
 begin
     clrscr;
-    write('Belajar Pascal untuk Dasar');
+    write('Belajar Pascal untuk Dasar Pemrograman');
 end.
